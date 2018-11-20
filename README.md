@@ -1,6 +1,6 @@
-#Due: 11/17
+# Due: 11/17
 
-##Inheritance and Abstract Classes
+## Inheritance and Abstract Classes
 
 This program is designed to provide more practice for inheritance. You will write 3 classes and one tester class as described below.
 
